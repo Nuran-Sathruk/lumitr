@@ -1,2 +1,2 @@
-# LUMITR
+# Lumitr
 Lumitr, Speak to Lum.
